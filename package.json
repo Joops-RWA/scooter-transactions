@@ -1,0 +1,34 @@
+{
+  "name": "@foly/scooter-transactions",
+  "version": "1.0.0",
+  "description": "Custom transaction types for the Ark Scooter project.",
+  "author": "emsy",
+  "license": "MIT",
+  "main": "src/index.js",
+  "scripts": {
+    "sr": "node ./src/test.js --txt sr",
+    "rs": "node ./src/test.js --txt rs",
+    "rf": "node ./src/test.js --txt rf",
+    "t": "node ./src/test.js --txt t"
+  },
+  "dependencies": {
+    "@arkecosystem/core-event-emitter": "^2.6.0-next.7",
+    "@arkecosystem/core-transactions": "^2.6.0-next.7",
+    "@arkecosystem/crypto": "^2.6.0-next.7"
+  },
+  "homepage": "https://github.com/e-m-s-y/scooter-transactions",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/e-m-s-y/scooter-transactions.git"
+  },
+  "bugs": {
+    "url": "https://github.com/e-m-s-y/scooter-transactions/issues"
+  },
+  "keywords": [
+    "arkecosystem",
+    "plugin",
+    "scooter",
+    "transaction",
+    "arkscooters"
+  ]
+}
