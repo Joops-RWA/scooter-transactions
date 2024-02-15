@@ -1,4 +1,4 @@
-# Custom scooter transactions
+# Joops R.W.A Custom scooter transactions
 This plugin contains custom transactions built for the Joops R.W.A electric scooters rental project. 
 
 https://www.joops.app
