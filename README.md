@@ -21,10 +21,6 @@ yarn build
 ```
 4 Restart your relay.
 
-## Credits
-
-- [e-m-s-y](https://github.com/e-m-s-y)
-
 ## License
 
 [MIT](LICENSE)
