@@ -1,7 +1,7 @@
 # Custom scooter transactions
-This plugin contains custom transactions built for the Tier-0 Ark Scooters project. 
+This plugin contains custom transactions built for the Joops R.W.A electric scooters rental project. 
 
-https://ark.io/projects/ark-scooters
+https://www.joops.app
 
 ## Installation
 1 Add the plugin to your relay node. 
